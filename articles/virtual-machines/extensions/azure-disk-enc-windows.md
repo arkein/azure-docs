@@ -56,7 +56,7 @@ Azure Disk Encryption requires Internet connectivity for access to Active Direct
 	  "KeyEncryptionAlgorithm": "[keyEncryptionAlgorithm]",
 	  "KeyEncryptionKeyURL": "[keyEncryptionKeyURL]",
 	  "KeyVaultURL": "[keyVaultURL]",
-	  "SequenceVersion": "sequenceVersion]",
+	  "SequenceVersion": "[sequenceVersion]",
 	  "VolumeType": "[volumeType]"
 	},
 	"type": "AzureDiskEncryption",
